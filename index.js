@@ -8,3 +8,5 @@ function writeCards(names) {
   }
   return names;
 }
+
+writeCards(names);
