@@ -8,4 +8,4 @@ function writeCards(namesArray, event) {
   return thankYouCards;
 }
 
-writeCards(names);
+
